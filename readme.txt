@@ -1,4 +1,4 @@
-=== CRM Upload Types Integration ===
+=== allow-cad-uploads ===
 Contributors: batmanbroom
 Tags: uploads, mime types, file types, crm, jetpack-crm
 Requires at least: 5.8
@@ -62,3 +62,4 @@ Yes. Deactivate or remove the plugin to restore default behavior.
 = 1.2.0 =
 
 Adds settings link and global file visibility.
+
